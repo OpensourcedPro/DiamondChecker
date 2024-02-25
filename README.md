@@ -1,5 +1,5 @@
-**<h1> What is Diamond Sorter and how does it operate?</h1>** 
-Diamond Sorter is a utility to sort out Stealer Logs and help create, manage and edit HQ Targetted Combolists, Leads, Account Data and Emails.
+**<h1> What is Diamond Checker and how does it operate?</h1>** 
+Diamond Checker is a self-developed cookie checker for stealer logs that will tell you what cookies are valid and which ones are not. Simalar to BL Tools
 
 
 **<h1>NEED HELP? QUESTIONS? SUPPORT? </h1>** 
