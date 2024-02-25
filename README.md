@@ -20,15 +20,6 @@ Stealer Logs which is captured from various types of malware that is designed to
 <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="OpenSourcedPro/427" data-width="100%"></script>
 
 
-This information is then sent back to the attacker’s command and control server, where it can be used for malicious purposes such as identity theft, financial fraud, or espionage. 
-
-Stealer malware can be distributed through various means, including phishing emails, malicious websites, and infected software downloads. Once installed on a system, it can operate in the background without the user’s knowledge, collecting data and sending it back to the attacker.
-
-**Most antivirus software can’t detect stealer malware.**
-
-As a cyber security researcher I work with stealer malware logs on a daily basis, that's why I decided to facilitate my life and automate some of the processes.
-
-
 # Diamond Sorter - A Universal Data Managment Utility
 
 **This tool is designed to retrieve, orginize and sort all data retrived from malware logs and any data inserted into it.
