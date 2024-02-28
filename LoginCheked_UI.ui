@@ -1190,7 +1190,7 @@ Don't forget to subscribe.</string>
                Sorter</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton">
+     <widget class="QPushButton" name="authorization_button">
       <property name="geometry">
        <rect>
         <x>40</x>
