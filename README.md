@@ -3,7 +3,7 @@ Diamond Checker is a self-developed cookie checker for stealer logs that will te
 
 
 **<h1>NEED HELP? QUESTIONS? SUPPORT? </h1>** 
-I will ONLY GIVE SUPPORT, UPDATES & HELP TO MY COMMUNITY MEMBERS THAT ARE APART OF THE COMMUNITY - https://Opensourced.Pro
+I will ONLY GIVE SUPPORT, UPDATES & HELP TO MY COMMUNITY MEMBERS THAT ARE APART OF THE COMMUNITY
 
 
 **<h1>Join The Telegram Chat Here</h1>** 
